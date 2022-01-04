@@ -1,3 +1,8 @@
+---
+title: "My Sample Blog"
+date: 2022-01-04
+---
+
 # My Sample blog
 
 Its funny how life has been. First I wanted to write my on blogging platform. But now I am here checking out Github pages.
