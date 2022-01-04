@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+Does anyone still need a blog?
 ---
 
-I'm glad you are here. I plan to talk about ...
+I am testing out Github pages to see how far one can go with this kind of thing. Looks fine if you are farmiliar with Markdown. 
